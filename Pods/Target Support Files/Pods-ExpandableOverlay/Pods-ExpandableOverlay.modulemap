@@ -1,0 +1,6 @@
+framework module Pods_ExpandableOverlay {
+  umbrella header "Pods-ExpandableOverlay-umbrella.h"
+
+  export *
+  module * { export * }
+}
